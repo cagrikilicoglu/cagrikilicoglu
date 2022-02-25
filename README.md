@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cagrikilicoglu
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Unity environment and C#
 - 📫 You can reach me on GitHub
 
