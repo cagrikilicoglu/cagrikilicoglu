@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cagrikilicoglu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Unity environment and C#
-- 📫 You can reach me on GitHub
+- 🌱 I’m currently learning Golang
+- ✨ I'm also creating games in Unity with C#
+- 📫 You can reach me on LinkedIn at linkedin.com/in/çağrı-kılıçoğlu/
 
 <!---
 cagrikilicoglu/cagrikilicoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
