@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cagrikilicoglu
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Backend Web Development
 - 🌱 I’m currently learning Golang
 - ✨ I'm also creating games in Unity with C#
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/çağrı-kılıçoğlu/
