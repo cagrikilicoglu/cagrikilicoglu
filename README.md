@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cagrikilicoglu
-- 👀 I’m interested in Backend Web Development
+- 👀 I’m a Backend Developer
 - 🌱 I’m currently coding with Golang
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/çağrı-kılıçoğlu/
 
